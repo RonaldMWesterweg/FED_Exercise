@@ -21,10 +21,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ronald Merkuur
 
   #### Je startniveau:
-  hier je startniveau: Blauw
+  Blauw
 
   #### Je focus:
-  hier je focus: responsive
+  Responsive
  
 </details>
 
