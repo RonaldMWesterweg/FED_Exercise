@@ -1,5 +1,6 @@
 # Procesverslag
 https://ronaldmwesterweg.github.io/FED_Exercise/
+
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -20,10 +21,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Ronald Merkuur
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  hier je startniveau: Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  hier je focus: responsive
  
 </details>
 
