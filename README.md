@@ -1,4 +1,5 @@
 # Procesverslag
+https://ronaldmwesterweg.github.io/FED_Exercise/
 Markdown is een simpele manier om HTML te schrijven.  
 Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
@@ -16,7 +17,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+  Ronald Merkuur
 
   #### Je startniveau:
   hier je startniveau (kies uit zwart, rood óf blauw)
@@ -36,7 +37,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  https://ronaldmwesterweg.github.io/FED_Exercise/ link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://kai.dantepiekart.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
