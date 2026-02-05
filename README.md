@@ -42,11 +42,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   https://kai.dantepiekart.nl/
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
+  Overzichtspagina  
   <img src="readme-images/KAi_Overview.png" width="900px" alt="Overzichtspagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
+  Detailpagina  
   <img src="readme-images/KAi_Details.png" width="900px" alt="Detailpagina">
  
 </details>
