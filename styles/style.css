@@ -43,13 +43,15 @@ h3 {
   font-size: 16px;
   color: #000000;
 }
+body{
+	font-family: 'Roboto', sans-serif;
+ 	font-size: 14px;
+}
 
 .card1{
 	background-color:#ffffff;
 	max-width: 20rem;
 	aspect-ratio: 2 / 3;
-	border-radius: 15px;
-	padding: 15px;
 	padding-left: 15px;
 	padding-right: 15px;
 	outline-style: solid;
